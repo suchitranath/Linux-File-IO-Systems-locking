@@ -87,12 +87,11 @@ return 0;
 
 ## OUTPUT
 
-##program1:
-![image](https://github.com/suchitranath/Linux-File-IO-Systems-locking/assets/145742631/8680f5ab-3bb1-46e9-8b49-291ab2919836)
+## program1:
+![Screenshot from 2024-05-13 21-48-43](https://github.com/suchitranath/Linux-File-IO-Systems-locking/assets/145742631/abd77ee0-edf6-4a19-8d04-64cd2931cec2)
 
-##program2:
-![image](https://github.com/suchitranath/Linux-File-IO-Systems-locking/assets/145742631/a7c08527-3cc6-40d9-a178-8508955e1f1c)
-
+## program2:
+![Screenshot from 2024-05-13 21-56-38](https://github.com/suchitranath/Linux-File-IO-Systems-locking/assets/145742631/b5c98e9b-de16-491d-9da0-9e06cdf9ff23)
 
 
 # RESULT:
